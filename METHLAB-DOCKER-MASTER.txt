@@ -1,0 +1,62 @@
+# This file is a template, and might need editing before it works on your project.
+FROM httpd:alpine
+
+cfea63112832993.608abafb58635
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/cfea63112832993.608abafb58635.jpg
+https://mir-s3-cdn-cf.behance.net/user/230/1d37041033210073.612d6edc7281f.jpg
+
+METHLAB LTD WWW.METHLAB.SE token_d4LgYoGi7iTMfGjNK22NahNJd4DbAog3
+WWW.METHLAB.CO - WWW.TIDAL.COM - WWW.SPOTIFY.COM token_d68b32681c9bdab00f14c1071782d00435739a8f
+@{User}KJELLGREN@METHLAB.SE METHLAB LTD
+@{User}KJELLGREN@GMAIL.COM METHLAB LTD
+ONEMETHOD.COM ONEMETHOD, METHLAB LTD
+HOLY.AGENCY HOLY., MAYHEM, INC METHLAB LTD token_XC1sRlCFJTLVfhyaDXWItoYamxZKFOAT
+DISCORD.GG DISCORD INC. github?code=58af0eef63ab9f620530&state=87618d25b1b9fa5b45da10111160e03a (WWW.DISCORD.COM)
+MAYHEM.GG [MYM.GG] MAYHEM, INC METHLAB LTD MIXKIT.CO token_O3fBHnnrSnpmuNJqm470MsHhgyD7pw6y ENVATO PLACEIT.NET
+STEAM VALVE STEAMPOWERED.COM token_CSGO-6G2cS-WzcxT-fH3dp-Rf7oq-X9oJN
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/f82157112832993.601bd19d344b8.jpg
+https://mir-s3-cdn-cf.behance.net/projects/original/681abd107414231.Y3JvcCw2NTUsNTEzLDM2NSwxMzk.png
+
+VATNUMMER.SE (WWW.VATNUMMER.SE)
+VAT: SE851126557401 METHLAB
+Org nr: 851126-5574
+HP: METHLAB.SE
+MAIL: KJELLGREN@GMAIL.COM
+E-MAIL: KJELLGREN@METHLAB.SE
+202 SKATTEVERKET.SE (www.skatteverket.se)
+GeoNames.org - http://www.geonames.org/3333052/torren.html
+Torren
+3333052
+T RKS .ROCKS
+Sweden SE » Västra Götaland 28
+58.47083, 11.25N 58°28′15″ E 11°15′00″
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/c0ca20112832993.601bd19cd7efd.jpg
+TETHER.TO token_nasrqt4moi72xp5a
+
+https://discord.com/billing/popup-bridge/callback?token=EC-4MD59418DJ950431R&ba_token=BA-5VF67974BX605890A&path=%2Fbilling%2Fpopup-bridge%2F2%2Fcallback%2Fb03b86b8468e9a907e76d7947638ce6f%2Freturn&state=b03b86b8468e9a907e76d7947638ce6f&response_type=return&payment_gateway=2
+https://discord.com/connections/github?code=58af0eef63ab9f620530&state=87618d25b1b9fa5b45da10111160e03a
+
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/0d309a112832993.601bd19cd84cf.jpg
+
+https://www.behance.net/gallery/112832993/Methlab-Flyer-Design
+
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/b64fbe112832993.601bd19d34dd9.jpg
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/e13fde112832993.608abafb579d3.jpg
+
+https://mir-s3-cdn-cf.behance.net/projects/404/1fd746112535489.Y3JvcCwyMTU2LDE2ODcsNDIxLDA.jpg
+https://mir-s3-cdn-cf.behance.net/projects/404/9ba4e3103408901.Y3JvcCw4OTQsNzAwLDI4MSww.jpg
+
+
+
+https://mir-s3-cdn-cf.behance.net/projects/404/a61706119032557.Y3JvcCwxMDA3LDc4OCwxNzQsMA.jpg - https://mir-s3-cdn-cf.behance.net/user/115/1d37041033210073.612d6edc7281f.jpg - https://mir-s3-cdn-cf.behance.net/user/115/81cf0c532240499.6089464f884b8.jpg
+
+
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAICAQAAACBxB0+AAAALklEQVR4AWNkaGBgAGIgCQVH0IVOM2xFFfrOMIHhJ7qqWwwrMM06BRNCAsQJAQBF2hGZtY9mrAAAAABJRU5ErkJggg==
+
+https://mir-s3-cdn-cf.behance.net/user/115/2c4fcc517805797.60218b52b4bb7.jpg - https://mir-s3-cdn-cf.behance.net/projects/max_808/681abd107414231.Y3JvcCw2NTUsNTEzLDM2NSwxMzk.png
+
+https://mir-s3-cdn-cf.behance.net/projects/404/e90f4b93519393.Y3JvcCw4OTksNzAzLDkxLDE4OQ.png - https://a5.behance.net/07593793c3cc44f8f7be480b6e665008bebfcbfe/img/creative_fields/bg/typography.jpg
+
+http://email.notify.docker.com/c/eJxNTrtuxDAM-5pka6DIj1iDhy79D9uSmvSc-JDzDf37eizAgSQIkhydeNH5iAi4rgAI5IwJy8ZJ1QODgsmEYbJwtX7o78KtPOReSjvnPQIpKSfyGzDmjCkojDRjMSuuSnONe-_P12Q-J_wa2N_5X8MwUintffXBSrv0uM8POdNRhxa2Xj1lCQw2WOeJXFKnfmyUzYCRYGHTMKLzHR8_Uuv3Ldd4ekrfa8rLS_4A_CdDtA
+
+COPY ./ /usr/local/apache2/htdocs/
